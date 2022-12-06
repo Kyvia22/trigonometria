@@ -1,0 +1,25 @@
+#container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  border: solid black;
+  margin-top: 15%;
+}
+
+#titulo {
+    text-align: center;
+    border-bottom: solid black;
+}
+
+p {
+    padding-left: 25px;
+}
+
+#butonnn{
+    color: darkgray;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    padding: 30px;
+    font: black;
+}
